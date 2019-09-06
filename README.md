@@ -6,3 +6,5 @@ interface (UART) during the program runtime.
 * A software routine provided by TI is used. This works with addresses of the variables.
 
 * Unfortunately in many cases the backchannel Uart (you'll find them on various launchpads) function is too slow. Therefore, it is recommended to use an external serial to USB adapter.
+
+![Alternativtext](https://github.com/ben5en/MSP430_UartMonitor/blob/master/MSP430FR2433_UartMonitor.jpg "Hardware")
