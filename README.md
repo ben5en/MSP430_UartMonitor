@@ -8,3 +8,5 @@ interface (UART) during the program runtime.
 * Unfortunately in many cases the backchannel Uart (you'll find them on various launchpads) function is too slow. Therefore, it is recommended to use an external serial to USB adapter.
 
 ![Alternativtext](https://github.com/ben5en/MSP430_UartMonitor/blob/master/MSP430FR2433_UartMonitor.jpg "Hardware")
+
+* Source: http://processors.wiki.ti.com/index.php/ProgramModelUart_GuiComposer
